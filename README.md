@@ -3,7 +3,7 @@
 ## I'm a Developer & Final Year CS Student !!
 
 - 🌱 I’m currently preparing for Interviews 
-- 💻 I’m looking apportunity in React⚛️
+- 💻 I’m looking apportunity in JavaScript/React⚛️
 - 🥅 Goals: Learn more about Software Development & technologys
 - ⚡ Fun fact: I like to play Cricket & Volleyball | Traveling 
 
