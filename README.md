@@ -1,6 +1,6 @@
 # Hi there, I'm Gaurav 👋 
 
-## I'm a Developer & Final Year CS Student !!
+## I'm a Software Development Enthusiast & Final Year CS Student !!
 
 - 🌱 I’m currently preparing for Interviews 
 - 💻 I’m looking apportunity in JavaScript | React⚛️ | Node 
