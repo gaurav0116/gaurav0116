@@ -2,9 +2,9 @@
 
 ## I'm a Software Development Enthusiast & Final Year CS Student !!
 
-- 🌱 I’m currently preparing for Interviews 
-- 💻 I’m looking apportunity in JavaScript | React⚛️ | Node 
-- 🥅 Goals: Learn more about Software Development & technologys
+- 🌱 I’m Jr. Software Engineer 
+- 💻 I’m Working NodeJS & Build scalable web services  
+- 🥅 Goals: Learn more about new technologys & tools
 - ⚡ Fun fact: I like to play Cricket & Volleyball | Traveling 
 
 ### Connect with me:
