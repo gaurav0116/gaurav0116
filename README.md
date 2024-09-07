@@ -1,10 +1,8 @@
 # Hi there, I'm Gaurav 👋 
 
-## I'm a Software Development Enthusiast & Final Year CS Student !!
-
-- 🌱 I’m Jr. Software Engineer 
+- 🌱 I’m Software Engineer 
 - 💻 I’m Working NodeJS & Build scalable web services  
-- 🥅 Goals: Learn more about new technologys & tools
+- 🥅 Goals: Learn more about new technologies & tools
 - ⚡ Fun fact: I like to play Cricket & Volleyball | Traveling 
 
 ### Connect with me:
