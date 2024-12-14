@@ -1,8 +1,8 @@
 # Hi there, I'm Gaurav 👋 
 
 - 🌱 I’m Software Engineer 
-- 💻 I’m Working NodeJS & Build scalable web services  
-- 🥅 Goals: Learn more about new technologies & tools
+- 💻 I’m Working NodeJS & Build scalable web apps  
+- 🥅 Goals: Keep learning and keep exploring
 - ⚡ Fun fact: I like to play Cricket & Volleyball | Traveling 
 
 ### Connect with me:
